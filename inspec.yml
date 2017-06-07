@@ -1,0 +1,8 @@
+name: inspec-workshop
+title: InSpec Profile
+maintainer: Dmitriy Ibatulin
+copyright: Dmitriy Ibatulin
+copyright_email: dmitriy.ibatulin@revjet.com
+license: All Rights Reserved
+summary: An InSpec Compliance Profile
+version: 0.1.0
